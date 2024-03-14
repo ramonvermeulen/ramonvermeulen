@@ -1,4 +1,8 @@
-### Hi there 👋
+All-round IT professional with a passion for Google Cloud Platform. Has experience in developing and designing Software Solutions for real-world problems. 
+
+Graduated in 2020 as a Software Engineer at the HU University of Applied Sciences in Utrecht. Enjoys working with teams in an Agile way, to achieve a high level of collaboration and productivity.
+
+Do you want to know more? Feel free to send me a message.
 
 <!--
 **ramonvermeulen/ramonvermeulen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
